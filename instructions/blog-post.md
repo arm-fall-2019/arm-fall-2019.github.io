@@ -5,6 +5,12 @@ Posting to the course blog is fairly straightforward, as it is an point-and-clic
 1. Log into the site by going to https://arm-fall-2019.matthew-lavin.com and clicking "login"
 2. Enter your Github username and password if prompted and accept the terms of use
 3. Click the link titled "Admin" and, under the student content submenu, click the link titled "Blog Post"
-4. Fill out all required fields, including your post in the "Body" field. (You can also click "source" to enter pure HTML if you happen to prefer it.)
-5. Under tags, click the text box. A list of available tags will appear. Choose the "Introductions" tag from the list
-6. When you are finished writing, click "save" and go to your blog to verify that your post is now published.
+4. Click the link titled "Create"
+5. The post itself will go in the "Body" field. In your first post, you should introduce yourself to the class. Tell us about where you grew up, what your interests are, and what you are studying here at Pitt. (You can also click "source" to enter pure HTML if you happen to prefer it.)
+6. Fill out all other required fields, including a title. 
+7. Under tags, click the text box. A list of available tags will appear. Choose the "Introductions" tag from the list. If this tage does not appear, please let me know immediately.
+8. When you are finished writing, click "save" and go to your blog to verify that your post is now published.
+
+  A. Go back to https://arm-fall-2019.matthew-lavin.com/blogs
+  B. Click on the link for your blog
+  C. Click on the link for your post
