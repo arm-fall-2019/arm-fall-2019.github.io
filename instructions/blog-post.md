@@ -12,5 +12,7 @@ Posting to the course blog is fairly straightforward, as it is an point-and-clic
 8. When you are finished writing, click "save" and go to your blog to verify that your post is now published.
 
   A. Go back to https://arm-fall-2019.matthew-lavin.com/blogs
+  
   B. Click on the link for your blog
+  
   C. Click on the link for your post
