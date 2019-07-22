@@ -1,6 +1,6 @@
 # Posting to the Course Blog
 
-Posting to the course blog is fairly straightforward, as it is an point-and-click process. Before attempting to post, follow instructions to create your blog at https://github.com/arm-fall-2019/arm/fall-2019.github.io/blob/master/instructions/course-blog.md if you haven't done so already.
+Posting to the course blog is fairly straightforward, as it is an point-and-click process. Before attempting to post, follow instructions to create your blog at https://github.com/arm-fall-2019/arm-fall-2019.github.io/blob/master/instructions/course-blog.md if you haven't done so already.
 
 1. Log into the site by going to https://arm-fall-2019.matthew-lavin.com and clicking "login"
 2. Enter your Github username and password if prompted and accept the terms of use
